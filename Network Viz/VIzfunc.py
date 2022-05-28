@@ -1,4 +1,4 @@
-#绘制多组颜色映射线条函数
+#Draw multiple sets of color mapped lines function
 def multiline(xs, ys, c, ax=None, **kwargs):
     """Plot lines with different colorings
 
